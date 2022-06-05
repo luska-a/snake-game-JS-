@@ -8,7 +8,7 @@
 import { getInputDirection } from "./input.js"
 
 /* ================================================= VARIÁVEIS/CONSTANTES ================================================= */
-export const SNAKE_SPEED = 10 // Velocidade da cobra
+export const SNAKE_SPEED = 15 // Velocidade da cobra
 const snakeBody = [ { x: 11, y: 11 } ]
 let newSegments = 0 // Tamanho quando ela comer
 
